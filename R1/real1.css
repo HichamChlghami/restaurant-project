@@ -24,7 +24,7 @@ html{
     scroll-padding-top:6rem;
 }
 body{
-    background: #fff;
+    background: rgb(31, 17, 79);
     height: 2000px;
     /* background: #000; */
 
@@ -73,7 +73,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background:#fff;
+    background:rgb(6, 23, 63);
     padding: 2rem 9%;
     box-shadow:0 2px 3px 2px rgba(34, 34, 34, 0.097)
 
@@ -84,7 +84,7 @@ header .logo{
     color: #666;
 }
 header .logo i{
-    color: var(--color);
+    color: rgb(65, 17, 224);
     padding-right: .5rem;
 }
 header .navbar a{
@@ -93,7 +93,7 @@ header .navbar a{
     color: #666;
 }
 header .navbar a:hover{
-    color: var(--color);
+    color: rgb(75, 26, 234);
 }
 #menu-bar{
     font-size: 3rem;
